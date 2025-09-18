@@ -11,6 +11,8 @@ The goal is to uncover frequent product combinations and generate actionable ins
 - Jupyter Notebook
 
 ## 📊 Workflow
+![Workflow](screenshots/work_flow_screenshot.png)
+
 1. **Data Preparation**  
    - Re-engineered dataset into multi-item baskets.  
    - One-hot encoded transactions for Apriori algorithm.  
