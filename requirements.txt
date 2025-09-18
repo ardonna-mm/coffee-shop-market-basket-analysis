@@ -1,0 +1,19 @@
+# Core data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine learning / analysis
+scikit-learn>=1.3.0
+mlxtend>=0.23.0   # for apriori + association rules
+
+# Forecasting / time series (optional but nice to include)
+statsmodels>=0.14.0
+prophet>=1.1.4
+
+# Jupyter environment
+notebook>=7.0.0
+ipykernel>=6.25.0
